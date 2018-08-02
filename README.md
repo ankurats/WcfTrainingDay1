@@ -1,7 +1,7 @@
 "# WcfTrainingDay1" 
 
 
-This code is developed on Visua Studio 2015
+This code is developed on Visual Studio 2015
 
 Code used in WCF Day Training 
 
