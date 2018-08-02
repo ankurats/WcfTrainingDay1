@@ -1,0 +1,6 @@
+C:\Users\ankur.pathak\Desktop\WCF Session\demos\SeedProject\HelloWorldAppl\HelloWorldAppl\bin\Debug\HelloWorldAppl.dll.config
+C:\Users\ankur.pathak\Desktop\WCF Session\demos\SeedProject\HelloWorldAppl\HelloWorldAppl\bin\Debug\HelloWorldAppl.dll
+C:\Users\ankur.pathak\Desktop\WCF Session\demos\SeedProject\HelloWorldAppl\HelloWorldAppl\bin\Debug\HelloWorldAppl.pdb
+C:\Users\ankur.pathak\Desktop\WCF Session\demos\SeedProject\HelloWorldAppl\HelloWorldAppl\obj\Debug\HelloWorldAppl.csprojResolveAssemblyReference.cache
+C:\Users\ankur.pathak\Desktop\WCF Session\demos\SeedProject\HelloWorldAppl\HelloWorldAppl\obj\Debug\HelloWorldAppl.dll
+C:\Users\ankur.pathak\Desktop\WCF Session\demos\SeedProject\HelloWorldAppl\HelloWorldAppl\obj\Debug\HelloWorldAppl.pdb
